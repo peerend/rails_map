@@ -1,0 +1,32 @@
+{
+  "name": "rails_site",
+  "version": "1.0.0",
+  "description": "basic rails map",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "startbootstrap-full": "^4.0.0-beta"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.1",
+    "jshint": "^2.9.5",
+    "node-sass": "^4.7.2",
+    "uglify-js": "^3.3.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peerend/rails_map.git"
+  },
+  "author": "Dylan Peerenboom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peerend/rails_map/issues"
+  },
+  "homepage": "https://github.com/peerend/rails_map#readme"
+}
